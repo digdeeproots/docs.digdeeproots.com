@@ -16,6 +16,6 @@ You are free to use these in your organizations. Please don't offer public cours
 
 Because productivity increases. Because it lowers business risk. Because it allows continuous delivery. Because dogs do not get kicked at home.
 
-  * [PDF for how no bugs increases productivity](/nobugs/no-bugs-give-productivity.pdf)
+  * [PDF for how no bugs increases productivity](/nobugs/no-bugs-for-productivity.pdf)
   * [PDF for how no bugs increases safety](/nobugs/no-bugs-give-safety.pdf)
   * [PDF for how no bugs makes continuous delivery affordable](/nobugs/no-bugs-give-continuous-delivery.pdf)
