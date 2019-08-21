@@ -5,12 +5,7 @@ Email at [sales@digdeeproots](mailto:sales@digdeeproots.com)
 
 ### Materials for Non-Coders Teaching Coders How to Refactor
 
-Here are the materials for Read by Refactoring's Insight Loop! Why? Because developers spend over half their time simply reading code. Get that time back for actual coding by helping them refactor as they read!
-
-You are free to use these in your organizations. Please don't offer public courses. If you want help sustaining these habits after the workshop, please contact us!
-
-  * [Slides for training non-coders to deliver the Read by Refactoring Insight Loop](/slides/train-the-trainer-rbr-insight-loop.pdf)
-  * [Facilitator's Guide for the Insight Loop Workshop](/rbr/workshop-facilitator-guide.pdf)
+We've given the [Code by Refactoring Insight Loop Workshop](https://insightloop.digdeeproots.com/) a site of its own!
 
 ### Why Remove All Bugs?
 
