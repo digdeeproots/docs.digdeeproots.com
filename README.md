@@ -5,7 +5,7 @@ Email at [sales@digdeeproots](mailto:sales@digdeeproots.com)
 
 ### Materials for Non-Coders Teaching Coders How to Refactor
 
-We've given the [Code by Refactoring Insight Loop Workshop](https://insightloop.digdeeproots.com/) a site of its own!
+Everything you need to introduce disciplined refactoring to your developers is now available on our [Code by Refactoring Insight Loop Workshop](https://insightloop.digdeeproots.com/) site!
 
 
 ### Why Remove All Bugs?
