@@ -7,6 +7,7 @@ Email at [sales@digdeeproots](mailto:sales@digdeeproots.com)
 
 We've given the [Code by Refactoring Insight Loop Workshop](https://insightloop.digdeeproots.com/) a site of its own!
 
+
 ### Why Remove All Bugs?
 
 Because productivity increases. Because it lowers business risk. Because it allows continuous delivery. Because dogs do not get kicked at home.
