@@ -1,6 +1,6 @@
 ---
 title: Helpers
-subtitle: Helpers encapsulate irrelevant details
+description: Helpers encapsulate irrelevant details
 ---
 
 ```csharp

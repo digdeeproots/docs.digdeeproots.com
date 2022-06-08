@@ -1,6 +1,6 @@
 ---
 title: Test without irrelevant details
-subtitle: This test contains only relevant information
+description: This test contains only relevant information
 ---
 
 ```csharp

@@ -1,6 +1,6 @@
 ---
 title: Test with builders
-subtitle: Builders clarify the initial state
+description: Builders clarify the initial state
 ---
 
 The builders can also be used in your production code &mdash; they aren't just test helpers. In this example, we extracted the code that creates a new test context (empty data).

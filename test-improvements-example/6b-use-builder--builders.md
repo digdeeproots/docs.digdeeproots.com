@@ -1,6 +1,6 @@
 ---
 title: Define builders
-subtitle: Builders provide a flexible way to set up a complex state
+description: Builders provide a flexible way to set up a complex state
 ---
 
 ```csharp

@@ -1,6 +1,6 @@
 ---
 title: Simpler Helpers
-subtitle: Extracted code out of the helpers into the builders
+description: Extracted code out of the helpers into the builders
 ---
 
 ```csharp

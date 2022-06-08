@@ -1,6 +1,6 @@
 ---
 title: Define custom asserts
-subtitle: Custom asserts translate intention into verifications
+description: Custom asserts translate intention into verifications
 ---
 
 ```csharp

@@ -1,6 +1,6 @@
 ---
 title: Problematic test
-subtitle: This test is hard to read
+description: This test is hard to read
 ---
 
 ```csharp

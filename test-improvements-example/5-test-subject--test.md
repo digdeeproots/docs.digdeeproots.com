@@ -1,6 +1,6 @@
 ---
 title: Clear test subject
-subtitle: Designate exactly one object or method as the test subject
+description: Designate exactly one object or method as the test subject
 ---
 
 ```csharp

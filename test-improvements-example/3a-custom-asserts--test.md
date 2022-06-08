@@ -1,6 +1,6 @@
 ---
 title: Test with custom asserts
-subtitle: Custom asserts reveal the test's intention
+description: Custom asserts reveal the test's intention
 ---
 
 ```csharp

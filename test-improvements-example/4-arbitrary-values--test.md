@@ -1,6 +1,6 @@
 ---
 title: Use arbitrary constants
-subtitle: Replace specific constants with intent-revealing arbitrary constants
+description: Replace specific constants with intent-revealing arbitrary constants
 ---
 
 ```csharp
