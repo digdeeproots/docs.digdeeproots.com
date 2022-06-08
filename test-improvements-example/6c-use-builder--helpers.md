@@ -1,3 +1,10 @@
+---
+title: Simpler Helpers
+---
+
+# Simplified Helpers
+## Extracted code out of the helpers into the builders
+
 ```csharp
 public class InitialData : DisposableBase
 {

@@ -1,3 +1,10 @@
+---
+title: Problematic test
+---
+
+# Initial scenario
+## This test is hard to read
+
 ```csharp
 [Fact]
 void RunBeeReport()

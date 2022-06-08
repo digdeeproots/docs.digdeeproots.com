@@ -1,3 +1,10 @@
+---
+title: Use arbitrary constants
+---
+
+# Arbitrary constants
+## Replace specific constants with intent-revealing arbitrary constants
+
 ```csharp
 [Fact]
 void RunBeeReport()

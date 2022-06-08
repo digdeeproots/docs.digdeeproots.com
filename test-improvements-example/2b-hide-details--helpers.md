@@ -1,3 +1,10 @@
+---
+title: Helpers encapsulate irrelevant details
+---
+
+# Helpers
+## Helpers encapsulate irrelevant details
+
 ```csharp
 public static class Helpers
 {

@@ -1,3 +1,12 @@
+---
+title: Use builders
+---
+
+# Test with builders
+## Builders clarify the initial state
+
+The builders can also be used in your production code &mdash; they aren't just test helpers. In this example, we extracted the code that creates a new test context (empty data).
+
 ```csharp
 [Fact]
 void RunBeeReport()

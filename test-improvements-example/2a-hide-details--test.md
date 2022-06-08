@@ -1,3 +1,10 @@
+---
+title: Hide irrelevant details
+---
+
+# Test without irrelevant details
+## This test contains only relevant information
+
 ```csharp
 [Fact]
 void RunBeeReport()

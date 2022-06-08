@@ -1,3 +1,10 @@
+---
+title: Define builders
+---
+
+# Builders
+## Builders provide a flexible way to set up a complex state
+
 ```csharp
 public class BeeSightingBuilder
 {

@@ -1,3 +1,10 @@
+---
+title: Use custom asserts
+---
+
+# Test with custom asserts
+## Custom asserts reveal the test's intention
+
 ```csharp
 [Fact]
 void RunBeeReport()
