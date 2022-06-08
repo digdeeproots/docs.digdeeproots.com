@@ -1,9 +1,7 @@
 ---
-title: Helpers encapsulate irrelevant details
+title: Helpers
+subtitle: Helpers encapsulate irrelevant details
 ---
-
-# Helpers
-## Helpers encapsulate irrelevant details
 
 ```csharp
 public static class Helpers

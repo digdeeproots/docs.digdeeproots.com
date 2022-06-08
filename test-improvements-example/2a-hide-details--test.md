@@ -1,9 +1,7 @@
 ---
-title: Hide irrelevant details
+title: Test without irrelevant details
+subtitle: This test contains only relevant information
 ---
-
-# Test without irrelevant details
-## This test contains only relevant information
 
 ```csharp
 [Fact]

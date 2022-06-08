@@ -1,9 +1,7 @@
 ---
 title: Define custom asserts
+subtitle: Custom asserts translate intention into verifications
 ---
-
-# Custom asserts
-## Custom asserts translate intention into verifications
 
 ```csharp
 public class ReportAssertions : ObjectAssertions<Report, ReportAssertions>

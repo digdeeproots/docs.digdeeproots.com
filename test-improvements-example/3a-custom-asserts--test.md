@@ -1,9 +1,7 @@
 ---
-title: Use custom asserts
+title: Test with custom asserts
+subtitle: Custom asserts reveal the test's intention
 ---
-
-# Test with custom asserts
-## Custom asserts reveal the test's intention
 
 ```csharp
 [Fact]

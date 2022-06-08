@@ -1,9 +1,7 @@
 ---
 title: Problematic test
+subtitle: This test is hard to read
 ---
-
-# Initial scenario
-## This test is hard to read
 
 ```csharp
 [Fact]
